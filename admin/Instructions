@@ -1,0 +1,14 @@
+1. Admin Panel
+
+Purpose: Add and manage products (for admin users).
+
+Location: admin folder
+
+Run:
+
+cd admin
+npm install
+npm run dev
+
+
+Open browser at the URL displayed in terminal (usually http://localhost:5173)
