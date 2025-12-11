@@ -1,0 +1,14 @@
+3. Frontend
+
+Purpose: User interface for customers to browse products, add to cart, and make payments.
+
+Location: frontend folder
+
+Run:
+
+cd frontend
+npm install
+npm run dev
+
+
+Open browser at the URL displayed in terminal (usually http://localhost:5173)
