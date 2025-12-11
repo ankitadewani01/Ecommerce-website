@@ -1,0 +1,23 @@
+2. Backend
+
+Purpose: Handles API requests, database operations, authentication, and Razorpay payment integration.
+
+Location: backend folder
+
+Run:
+
+cd backend
+npm install
+node index.js
+
+
+Make sure to create a .env file in the backend folder with your credentials:
+
+PORT=4000
+MONGO_URI=your_mongodb_connection_string
+RAZORPAY_KEY_ID=your_razorpay_key_id
+RAZORPAY_KEY_SECRET=your_razorpay_key_secret
+JWT_SECRET=secret_ecom
+
+
+Backend will run at http://localhost:4000
